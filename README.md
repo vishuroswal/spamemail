@@ -81,9 +81,3 @@ Spam-Mail-Detection/
 This project demonstrates the practical implementation of **Machine Learning** and **Natural Language Processing** in cybersecurity applications. The Spam Mail Detection System helps users detect suspicious messages quickly and efficiently, making digital communication safer and more reliable.
 
 ---
-
-## 👨‍💻 Author
-
-**Vishu Tomar**
-
-GitHub: https://github.com/vishuroswal
