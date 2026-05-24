@@ -10,4 +10,3 @@ This is a machine learning application designed to detect and filter out spam em
 ## Technical Stack
 * **Language:** Python
 * **Libraries:** pandas, numpy, and Tkinter
-*
